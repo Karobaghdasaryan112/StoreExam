@@ -361,3 +361,4 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd"SecureStore.Api/DockerDesktopWSL/disk/docker_data.vhdx" 
+SecureStore.Api/DockerDesktopWSL/
